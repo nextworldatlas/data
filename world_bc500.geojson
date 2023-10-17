@@ -15,9 +15,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -1056,9 +1056,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -1541,9 +1541,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -5950,9 +5950,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -6459,9 +6459,9 @@
                 "ABBREVN": "Simhala",
                 "SUBJECTO": "Simhala",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Simhala"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Simhala",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -6620,9 +6620,9 @@
                 "ABBREVN": "Paleo-Inuit",
                 "SUBJECTO": "Paleo-Inuit",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Paleo-Inuit"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Paleo-Inuit",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -7197,9 +7197,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -8382,9 +8382,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -9219,9 +9219,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -9304,9 +9304,9 @@
                 "ABBREVN": "Saharan Pastoral Nomads",
                 "SUBJECTO": "Saharan Pastoral Nomads",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Saharan Pastoral Nomads"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Saharan Pastoral Nomads",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -9957,9 +9957,9 @@
                 "ABBREVN": "Carth. Empir",
                 "SUBJECTO": "Carthaginian Empire",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Carthaginian Empire"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Carthaginian Empire",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -10918,9 +10918,9 @@
                 "ABBREVN": "Greeks",
                 "SUBJECTO": "Greek city-states",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Greek city-states"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Greek city-states",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -11275,9 +11275,9 @@
                 "ABBREVN": "Saba",
                 "SUBJECTO": "Saba",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Saba"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Saba",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -11364,9 +11364,9 @@
                 "ABBREVN": "Zhou states",
                 "SUBJECTO": "Zhou states",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Zhou states"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Zhou states",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -11877,9 +11877,9 @@
                 "ABBREVN": "Iron Age megalith cultures",
                 "SUBJECTO": "Iron Age megalith cultures",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Iron Age megalith cultures"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Iron Age megalith cultures",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -12334,9 +12334,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -13299,9 +13299,9 @@
                 "ABBREVN": "Achaemenid Empire",
                 "SUBJECTO": "Achaemenid Empire",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Achaemenid Empire"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Achaemenid Empire",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -15456,9 +15456,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -15581,9 +15581,9 @@
                 "ABBREVN": "Greeks",
                 "SUBJECTO": "Greek city-states",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Greek city-states"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Greek city-states",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -15914,9 +15914,9 @@
                 "ABBREVN": "Meroe",
                 "SUBJECTO": "Meroe",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Meroe"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Meroe",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -16007,9 +16007,9 @@
                 "ABBREVN": "Mgadha",
                 "SUBJECTO": "Magadha",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Magadha"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Magadha",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -16080,9 +16080,9 @@
                 "ABBREVN": "Guanches",
                 "SUBJECTO": "Guanches",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Guanches"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Guanches",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -16193,9 +16193,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -16438,9 +16438,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -16503,9 +16503,9 @@
                 "ABBREVN": "West African cereal farmers",
                 "SUBJECTO": "West African cereal farmers",
                 "BORDERPRECISION": 1,
-                "PARTOF": "West African cereal farmers"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "West African cereal farmers",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -17538,9 +17538,9 @@
                 "ABBREVN": "Khoiasan",
                 "SUBJECTO": "Khoiasan",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Khoiasan"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Khoiasan",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -19503,9 +19503,9 @@
                 "ABBREVN": "Ethiopian highland farmers",
                 "SUBJECTO": "Ethiopian highland farmers",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Ethiopian highland farmers"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Ethiopian highland farmers",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -19556,9 +19556,9 @@
                 "ABBREVN": "Australian aboriginal hunter-gatherers",
                 "SUBJECTO": "Australian aboriginal hunter-gatherers",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Australian aboriginal hunter-gatherers"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Australian aboriginal hunter-gatherers",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -21817,9 +21817,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -22982,9 +22982,9 @@
                 "ABBREVN": "Tasmanian hunter-gatherers",
                 "SUBJECTO": "Tasmanian hunter-gatherers",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Tasmanian hunter-gatherers"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Tasmanian hunter-gatherers",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -23163,9 +23163,9 @@
                 "ABBREVN": "Austronesians",
                 "SUBJECTO": "Austronesians",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Austronesians"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Austronesians",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -25492,9 +25492,9 @@
                 "ABBREVN": "Papuan neolithic farmers",
                 "SUBJECTO": "Papuan neolithic farmers",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Papuan neolithic farmers"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Papuan neolithic farmers",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -27401,9 +27401,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -27574,9 +27574,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -27687,9 +27687,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -27844,9 +27844,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -27977,9 +27977,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -28074,9 +28074,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -28199,9 +28199,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -28336,9 +28336,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -28421,9 +28421,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -28510,9 +28510,9 @@
                 "ABBREVN": "Olmec",
                 "SUBJECTO": "Olmec",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Olmec"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Olmec",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -28595,9 +28595,9 @@
                 "ABBREVN": "El Paraiso",
                 "SUBJECTO": "El Paraiso",
                 "BORDERPRECISION": 1,
-                "PARTOF": "El Paraiso"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "El Paraiso",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -28712,9 +28712,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -28881,9 +28881,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -29098,9 +29098,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -29207,9 +29207,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -29276,9 +29276,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -29353,9 +29353,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -29414,9 +29414,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -29479,9 +29479,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -29544,9 +29544,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -29629,9 +29629,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -29682,9 +29682,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -29775,9 +29775,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -29892,9 +29892,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -29993,9 +29993,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -30070,9 +30070,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -30427,9 +30427,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -30620,9 +30620,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -30697,9 +30697,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -30862,9 +30862,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -30943,9 +30943,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -31292,9 +31292,9 @@
                 "ABBREVN": "Chorrera",
                 "SUBJECTO": "Chorrera",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Chorrera"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Chorrera",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -31413,9 +31413,9 @@
                 "ABBREVN": "Chinchoros",
                 "SUBJECTO": "Chinchoros",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Chinchoros"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Chinchoros",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -31490,9 +31490,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -31527,9 +31527,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -33488,9 +33488,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -33601,9 +33601,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -33842,9 +33842,9 @@
                 "ABBREVN": "Shellfish gatherers",
                 "SUBJECTO": "Shellfish gatherers",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Shellfish gatherers"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Shellfish gatherers",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -34031,9 +34031,9 @@
                 "ABBREVN": "Plain bison hunters",
                 "SUBJECTO": "Plain bison hunters",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Plain bison hunters"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Plain bison hunters",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -34220,9 +34220,9 @@
                 "ABBREVN": "Plateau fichers and hunter gatherers",
                 "SUBJECTO": "Plateau fichers and hunter gatherers",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Plateau fichers and hunter gatherers"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Plateau fichers and hunter gatherers",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -34301,9 +34301,9 @@
                 "ABBREVN": "Desert hunter-gatherers",
                 "SUBJECTO": "Desert hunter-gatherers",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Desert hunter-gatherers"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Desert hunter-gatherers",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -35018,9 +35018,9 @@
                 "ABBREVN": "Amazon hunter-gatherers",
                 "SUBJECTO": "Amazon hunter-gatherers",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Amazon hunter-gatherers"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Amazon hunter-gatherers",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -35219,9 +35219,9 @@
                 "ABBREVN": "Savanna hunter-gatherers",
                 "SUBJECTO": "Savanna hunter-gatherers",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Savanna hunter-gatherers"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Savanna hunter-gatherers",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -35712,9 +35712,9 @@
                 "ABBREVN": "Pamaps cultures",
                 "SUBJECTO": "Pamaps cultures",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Pamaps cultures"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Pamaps cultures",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -36385,9 +36385,9 @@
                 "ABBREVN": "Andean hunter-gatherers",
                 "SUBJECTO": "Andean hunter-gatherers",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Andean hunter-gatherers"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Andean hunter-gatherers",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -36818,9 +36818,9 @@
                 "ABBREVN": "Patagonian shellfish and marine mammal hunters",
                 "SUBJECTO": "Patagonian shellfish and marine mammal hunters",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Patagonian shellfish and marine mammal hunters"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Patagonian shellfish and marine mammal hunters",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -37879,9 +37879,9 @@
                 "ABBREVN": "Maize farmers",
                 "SUBJECTO": "Maize farmers",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Maize farmers"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Maize farmers",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -39280,9 +39280,9 @@
                 "ABBREVN": "Manioc farmers",
                 "SUBJECTO": "Manioc farmers",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Manioc farmers"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Manioc farmers",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -40621,9 +40621,9 @@
                 "ABBREVN": "Caribbean hunter-gatherers",
                 "SUBJECTO": "Caribbean hunter-gatherers",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Caribbean hunter-gatherers"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Caribbean hunter-gatherers",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -44202,9 +44202,9 @@
                 "ABBREVN": "North American Pacifi foraging, hunting and fishing peoples",
                 "SUBJECTO": "North American Pacifi foraging, hunting and fishing peoples",
                 "BORDERPRECISION": 1,
-                "PARTOF": "North American Pacifi foraging, hunting and fishing peoples"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "North American Pacifi foraging, hunting and fishing peoples",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -45315,9 +45315,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -45600,9 +45600,9 @@
                 "ABBREVN": "Subarctic forest hunter-gatherers",
                 "SUBJECTO": "Subarctic forest hunter-gatherers",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Subarctic forest hunter-gatherers"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Subarctic forest hunter-gatherers",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -47237,9 +47237,9 @@
                 "ABBREVN": "Arctic marine mammal hunters",
                 "SUBJECTO": "Arctic marine mammal hunters",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Arctic marine mammal hunters"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Arctic marine mammal hunters",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -57058,9 +57058,9 @@
                 "ABBREVN": "Saami",
                 "SUBJECTO": "Saami",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Saami"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Saami",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -58027,9 +58027,9 @@
                 "ABBREVN": "Paleo-Siberian hunter-gatherers",
                 "SUBJECTO": "Paleo-Siberian hunter-gatherers",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Paleo-Siberian hunter-gatherers"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Paleo-Siberian hunter-gatherers",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -59492,9 +59492,9 @@
                 "ABBREVN": "Late Jomon culture",
                 "SUBJECTO": "Late Jomon culture",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Late Jomon culture"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Late Jomon culture",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -60509,9 +60509,9 @@
                 "ABBREVN": "Finno-Ugric taiga hunter-gatherers",
                 "SUBJECTO": "Finno-Ugric taiga hunter-gatherers",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Finno-Ugric taiga hunter-gatherers"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Finno-Ugric taiga hunter-gatherers",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -64152,9 +64152,9 @@
                 "ABBREVN": "Ainu",
                 "SUBJECTO": "Ainu",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Ainu"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Ainu",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -67913,9 +67913,9 @@
                 "ABBREVN": "Proto-Altaic pastoralists",
                 "SUBJECTO": "Prot-Altaic pastoralists",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Prot-Altaic Proto-Altaic pastoralists"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Prot-Altaic Proto-Altaic pastoralists",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -68190,9 +68190,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -68227,9 +68227,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -68264,9 +68264,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -68313,9 +68313,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -68350,9 +68350,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -68387,9 +68387,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -68424,9 +68424,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -70189,9 +70189,9 @@
                 "ABBREVN": "Greeks",
                 "SUBJECTO": "Greek city-states",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Greek city-states"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Greek city-states",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -71674,9 +71674,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -71923,9 +71923,9 @@
                 "ABBREVN": "Rome",
                 "SUBJECTO": "Rome",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Rome"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Rome",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -71980,9 +71980,9 @@
                 "ABBREVN": "Sabini",
                 "SUBJECTO": "Sabini",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Sabini"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Sabini",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -72053,9 +72053,9 @@
                 "ABBREVN": "Boii",
                 "SUBJECTO": "Boii",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Boii"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Boii",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -72194,9 +72194,9 @@
                 "ABBREVN": "Etruscans",
                 "SUBJECTO": "Etrurians",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Etrurians"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Etrurians",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -72355,9 +72355,9 @@
                 "ABBREVN": "Samnites",
                 "SUBJECTO": "Samnites",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Samnites"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Samnites",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -72408,9 +72408,9 @@
                 "ABBREVN": "Blemmyes",
                 "SUBJECTO": "Blemmyes",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Blemmyes"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Blemmyes",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -72541,9 +72541,9 @@
                 "ABBREVN": "Glades Culture",
                 "SUBJECTO": "Glades Culture",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Glades Culture"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Glades Culture",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -72706,9 +72706,9 @@
                 "ABBREVN": "Adena Culture",
                 "SUBJECTO": "Adena Culture",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Adena Culture"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Adena Culture",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -72755,9 +72755,9 @@
                 "ABBREVN": "Eastern North Amercian hunter-gatherers",
                 "SUBJECTO": "Eastern North Amercian hunter-gatherers",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Eastern North Amercian hunter-gatherers"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Eastern North Amercian hunter-gatherers",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -78816,9 +78816,9 @@
                 "ABBREVN": "Eastern North Amercian hunter-gatherers",
                 "SUBJECTO": "Eastern North Amercian hunter-gatherers",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Eastern North Amercian hunter-gatherers"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Eastern North Amercian hunter-gatherers",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -79413,9 +79413,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -79558,9 +79558,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -79727,9 +79727,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -80012,9 +80012,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -80185,9 +80185,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -80278,9 +80278,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -80439,9 +80439,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -80556,9 +80556,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -80705,9 +80705,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -80782,9 +80782,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -80863,9 +80863,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -81592,9 +81592,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -81693,9 +81693,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -81802,9 +81802,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -81971,9 +81971,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -82088,9 +82088,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -82213,9 +82213,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -82642,9 +82642,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -82763,9 +82763,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -82848,9 +82848,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -83741,9 +83741,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -83930,9 +83930,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -84263,9 +84263,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -84396,9 +84396,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -84481,9 +84481,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -84574,9 +84574,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -84755,9 +84755,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -84928,9 +84928,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -85965,9 +85965,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -86074,9 +86074,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -86175,9 +86175,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -86308,9 +86308,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -86513,9 +86513,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -86898,9 +86898,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -86999,9 +86999,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -87128,9 +87128,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -87217,9 +87217,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -87310,9 +87310,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -87387,9 +87387,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -87472,9 +87472,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -87553,9 +87553,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -97938,9 +97938,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -98175,9 +98175,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -98284,9 +98284,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -98389,9 +98389,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -98482,9 +98482,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -98627,9 +98627,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -98720,9 +98720,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -98817,9 +98817,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -99002,9 +99002,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -99095,9 +99095,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -99192,9 +99192,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -99381,9 +99381,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -99550,9 +99550,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -99647,9 +99647,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -99748,9 +99748,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -99805,9 +99805,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -99898,9 +99898,9 @@
                 "ABBREVN": null,
                 "SUBJECTO": null,
                 "BORDERPRECISION": 1,
-                "PARTOF": null
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": null,
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -100007,9 +100007,9 @@
                 "ABBREVN": "Pomeranian culture ",
                 "SUBJECTO": "Pomeranian culture ",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Baltic archeological cultures"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Baltic archeological cultures",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -100236,9 +100236,9 @@
                 "ABBREVN": "Sambian-Nothangian culture",
                 "SUBJECTO": "Sambian-Nothangian culture",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Baltic archeological cultures"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Baltic archeological cultures",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -100361,9 +100361,9 @@
                 "ABBREVN": "Bell-shaped burials culture",
                 "SUBJECTO": "Bell-shaped burials culture",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Baltic archeological cultures"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Baltic archeological cultures",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -100490,9 +100490,9 @@
                 "ABBREVN": "Western Masurian culture",
                 "SUBJECTO": "Western Masurian culture",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Baltic archeological cultures"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Baltic archeological cultures",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -100631,9 +100631,9 @@
                 "ABBREVN": "Eastern Masurian culture",
                 "SUBJECTO": "Eastern Masurian culture",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Baltic archeological cultures"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Baltic archeological cultures",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -100756,9 +100756,9 @@
                 "ABBREVN": "Curonians",
                 "SUBJECTO": "Curonians",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Baltic archeological cultures"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Baltic archeological cultures",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -100901,9 +100901,9 @@
                 "ABBREVN": "Brushed Pottery culture",
                 "SUBJECTO": "Brushed Pottery culture",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Baltic archeological cultures"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Baltic archeological cultures",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -101082,9 +101082,9 @@
                 "ABBREVN": "Milograd culture",
                 "SUBJECTO": "Milograd culture",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Baltic archeological cultures"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Baltic archeological cultures",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -101163,9 +101163,9 @@
                 "ABBREVN": "Plain-Pottery culture",
                 "SUBJECTO": "Plain-Pottery culture",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Baltic archeological cultures"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Baltic archeological cultures",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -101272,9 +101272,9 @@
                 "ABBREVN": "Chavin",
                 "SUBJECTO": "Chavin",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Chavin"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Chavin",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -101325,9 +101325,9 @@
                 "ABBREVN": "Hindu kingdoms",
                 "SUBJECTO": "Hindu kingdoms",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Hindu kingdoms"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Hindu kingdoms",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -101798,9 +101798,9 @@
                 "ABBREVN": "Gandhāra",
                 "SUBJECTO": "Gandhāra",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Hindu kingdoms"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Hindu kingdoms",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -101859,9 +101859,9 @@
                 "ABBREVN": "Avanti",
                 "SUBJECTO": "Avanti",
                 "BORDERPRECISION": 1,
-                "PARTOF": "Hindu kingdoms"
-        		"yearstart": -400,
-        		"yearend": -600
+                "PARTOF": "Hindu kingdoms",
+                "yearstart": -400,
+                "yearend": -600
             },
             "geometry": {
                 "type": "MultiPolygon",
